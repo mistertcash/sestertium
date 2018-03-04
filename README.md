@@ -1,4 +1,4 @@
 Sestertium is a new Cryptocurrency Coin and is forked from [CryptoNote](https://cryptonote.org)
 
 
-Build from Source Linux
+Sestertium at the moment is a work in progress
